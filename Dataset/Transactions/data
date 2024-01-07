@@ -1,1 +1,22 @@
+## Data Files
+
+The dataset is divided into two folders:
+
+### Folder 1: Transaction (5 states data Files)
+(https://drive.google.com/drive/folders/1vbsZoa5hqIVlaie4Wt8mxJC9rSX0LMux?usp=drive_link)
+- [fct_transactions.csv]
+- [enugu_transactions.csv]
+- [kano_transactions.csv]
+- [lagos_transactions.csv]
+- [rivers_transactions.csv]
+
+###  data
+
+- atm_location lookup.csv
+- calendar lookup.csv
+- customers_lookup.csv
+- hour lookup.csv
+- transaction_type lookup.csv
+
+
 
