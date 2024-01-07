@@ -17,7 +17,7 @@ The repository contains the following:
 
 ## Support and Contributions
 
-For inquiries or support, please contact (mailto:ritikabhandari049@gmail.com). Contributions are welcome; 
+For inquiries or support, please contact (ritikabhandari049@gmail.com). Contributions are welcome; 
 
 
 
